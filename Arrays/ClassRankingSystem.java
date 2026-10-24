@@ -60,7 +60,7 @@ public class ClassRankingSystem {
     public static void main(String[] args) {
 
         String names[] = {
-            "Alwyn", "Maxine", "John", "Lira", "Rey"
+            "Alwyn", "Lenard", "Jai", "Genius", "Jastayn"
         };
 
         int quizData[][] = {
